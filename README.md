@@ -11,8 +11,8 @@ A user-friendly hotel booking website where customers can easily view and book t
 
 ## Features
 
-- **Beautiful Sleek UI:** 
-- **Responsive Design:** 
+- **Beautiful Sleek UI** 
+- **Responsive Design** 
 
 ## Technologies Used
 
